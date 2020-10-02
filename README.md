@@ -48,7 +48,7 @@ This project is currently using the following technologies:
     $ yarn
     ```
     
-1.  **Create a .env file with your API KEY **
+1.  **Create a .env file with your API KEY**
 
     Copy the .env.example, just change the value to your API KEY.
 
