@@ -16,7 +16,7 @@
 </p>
 
 <h1>
-  Book App :mag_right:
+  Book App :books:
 </h1>
 
 <p>Playing with Google Books API.</p>
