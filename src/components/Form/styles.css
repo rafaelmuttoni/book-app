@@ -1,0 +1,13 @@
+.container > form {
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
+.book {
+  transition: all 0.3s;
+}
+
+.book:hover {
+  transform: translateY(-5px);
+  box-shadow: 5px 0px 7px 0px #00000020;
+}
